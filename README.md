@@ -1,3 +1,10 @@
+____ BEGIN fork preamble ____
+
+- updating links
+
+____ END fork preamble ____
+
+
 # 3D Gaussian Splatting for Real-Time Radiance Field Rendering
 Bernhard Kerbl*, Georgios Kopanas*, Thomas Leimkühler, George Drettakis (* indicates equal contribution)<br>
 | [Webpage](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/) | [Full Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_high.pdf) | [Video](https://youtu.be/T_kXY43VZnk) | [Other GRAPHDECO Publications](http://www-sop.inria.fr/reves/publis/gdindex.php) | [FUNGRAPH project page](https://fungraph.inria.fr) |<br>
@@ -57,12 +64,7 @@ User [camenduru](https://github.com/camenduru) was kind enough to provide a Cola
 The repository contains submodules, thus please check it out with 
 ```shell
 # SSH
-git clone git@github.com:graphdeco-inria/gaussian-splatting.git --recursive
-```
-or
-```shell
-# HTTPS
-git clone https://github.com/graphdeco-inria/gaussian-splatting --recursive
+git clone git@github.com:Mikey-E/gaussian-splatting-grocery.git --recursive
 ```
 
 ## Overview
